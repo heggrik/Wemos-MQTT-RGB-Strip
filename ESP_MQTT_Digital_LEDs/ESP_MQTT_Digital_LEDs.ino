@@ -81,6 +81,7 @@ byte green = 255;
 byte blue = 255;
 byte brightness = 255;
 
+int MILLION = 100000;
 
 
 /******************************** GLOBALS for fade/flash *******************************/
